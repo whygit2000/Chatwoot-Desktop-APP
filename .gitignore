@@ -1,6 +1,6 @@
-# 忽略打包输出目录
+# Ignore build output directory
 dist/
-# 忽略依赖
+# Ignore dependencies
 node_modules/
-# 忽略所有 exe 文件
+# Ignore all exe files
 *.exe
